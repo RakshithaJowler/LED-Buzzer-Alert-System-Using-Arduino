@@ -22,17 +22,20 @@ The Arduino controls the LED through digital pin 13 and the buzzer through digit
 
 ## Programming
 
-Arduino C/C++
+###Arduino C/C++
+...cpp
 
 int led = 13;
 int buzzer = 8;
 
-void setup() {
+void setup() 
+{
   pinMode(led, OUTPUT);
   pinMode(buzzer, OUTPUT);
 }
 
-void loop() {
+void loop() 
+{
   digitalWrite(led, HIGH);
   digitalWrite(buzzer, HIGH);
   delay(1000);
