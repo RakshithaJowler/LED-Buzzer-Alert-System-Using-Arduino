@@ -42,4 +42,4 @@ void loop() {
   digitalWrite(led, LOW);
   digitalWrite(buzzer, LOW);
   delay(1000);
-}
+}...
