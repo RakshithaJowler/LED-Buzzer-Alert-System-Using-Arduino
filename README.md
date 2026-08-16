@@ -20,7 +20,7 @@ The Arduino controls the LED through digital pin 13 and the buzzer through digit
 ## Project Image 
 ![LED Buzzer Project](./Screenshot%202026-08-16%20193819.png)
 
-## Programming
+
 ## Programming
 
 ### Arduino C/C++
