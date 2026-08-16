@@ -43,5 +43,4 @@ void loop() {
   delay(1000);
 }
 
-## Project Image 
-![LED and Buzzer Alert System](./image.png)
+
