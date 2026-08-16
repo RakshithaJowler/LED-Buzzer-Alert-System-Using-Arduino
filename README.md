@@ -17,6 +17,10 @@ A simple embedded system project using Arduino to control an LED and buzzer as a
 
 The Arduino controls the LED through digital pin 13 and the buzzer through digital pin 8. The LED and buzzer turn ON for 1 second and OFF for 1 second continuously.
 
+## Project Image 
+![LED and Buzzer Alert System](./image.png)
+
+
 ## Programming
 
 Arduino C/C++
